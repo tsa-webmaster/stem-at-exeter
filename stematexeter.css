@@ -109,7 +109,7 @@ header {
 }
 
 .text {
-  color: #f2f2f2;
+  color: #aaafc7;
   font-size: 15px;
   padding: 8px 12px;
   position: absolute;
@@ -119,7 +119,7 @@ header {
 }
 
 .numbertext {
-  color: #f2f2f2;
+  color: #aaafc7;
   font-size: 12px;
   padding: 8px 12px;
   position: absolute;
