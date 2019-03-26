@@ -15,6 +15,7 @@ body {
     background: -webkit-linear-gradient(left, #dc1124 0%,#dc1124 10%,#005dab 10%,#005dab 100%);
     left: -200px;
     transition: all 1000ms ease;
+    z-index: 1;
 }
 
 #sidebar.open {
